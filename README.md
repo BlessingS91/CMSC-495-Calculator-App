@@ -1,2 +1,2 @@
 # CMSC-495-Calculator-App
-Group Project made with Java and JavaFX 
+Group Calculator App made with Java.
