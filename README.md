@@ -1,5 +1,3 @@
-# CMSC-495-Calculator-App
-
 # Phase I Calculator Application
 
 ## Overview
